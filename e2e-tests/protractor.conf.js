@@ -9,7 +9,8 @@ exports.config = {
     'browserName': 'chrome'
   },
 
-  seleniumServerJar: '../node_modules/protractor/selenium/selenium-server-standalone-2.47.1.jar',
+  seleniumServerJar: '../node_modules/protractor/selenium/selenium-server-standalone-2.52.0.jar',
+  chromeDriver: '../node_modules/protractor/selenium/chromedriver_2.21.exe',
 
   baseUrl: 'http://localhost:8000/test/',
 
