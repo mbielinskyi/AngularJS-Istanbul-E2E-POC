@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1459184944524" clover="3.2.0">
-	<project timestamp="1459184944524"  name="All Files" >
-		<metrics statements="7206"  coveredstatements="2844"  conditionals="5013"  coveredconditionals="1249"  methods="1575"  coveredmethods="629"  elements="13794"  coveredelements="4722"  complexity="0"  packages="7"  files="9"  classes="9"  loc="30867"  ncloc="30867" />
+<coverage generated="1461667357039" clover="3.2.0">
+	<project timestamp="1461667357039"  name="All Files" >
+		<metrics statements="7206"  coveredstatements="2848"  conditionals="5013"  coveredconditionals="1249"  methods="1575"  coveredmethods="630"  elements="13794"  coveredelements="4727"  complexity="0"  packages="7"  files="9"  classes="9"  loc="30867"  ncloc="30867" />
 		<package name="app" >
 			<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="1"  coveredmethods="1" />
-			<file name="app.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\app.js" >
+			<file name="app.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\app.js" >
 				<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="1"  coveredmethods="1" />
 				<line num="4"  count="1"  type="stmt" />
 				<line num="11"  count="1"  type="stmt" />
@@ -12,7 +12,7 @@
 		</package>
 		<package name="app.bower_components.angular-route" >
 			<metrics statements="178"  coveredstatements="122"  conditionals="136"  coveredconditionals="53"  methods="34"  coveredmethods="24" />
-			<file name="angular-route.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\bower_components\angular-route\angular-route.js" >
+			<file name="angular-route.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\bower_components\angular-route\angular-route.js" >
 				<metrics statements="178"  coveredstatements="122"  conditionals="136"  coveredconditionals="53"  methods="34"  coveredmethods="24" />
 				<line num="6"  count="1"  type="stmt" />
 				<line num="24"  count="1"  type="stmt" />
@@ -195,9 +195,9 @@
 			</file>
 		</package>
 		<package name="app.bower_components.angular" >
-			<metrics statements="7008"  coveredstatements="2704"  conditionals="4514"  coveredconditionals="1086"  methods="1415"  coveredmethods="531" />
-			<file name="angular.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\bower_components\angular\angular.js" >
-				<metrics statements="7008"  coveredstatements="2704"  conditionals="4514"  coveredconditionals="1086"  methods="1415"  coveredmethods="531" />
+			<metrics statements="7008"  coveredstatements="2708"  conditionals="4514"  coveredconditionals="1086"  methods="1415"  coveredmethods="532" />
+			<file name="angular.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\bower_components\angular\angular.js" >
+				<metrics statements="7008"  coveredstatements="2708"  conditionals="4514"  coveredconditionals="1086"  methods="1415"  coveredmethods="532" />
 				<line num="6"  count="1"  type="stmt" />
 				<line num="38"  count="1"  type="stmt" />
 				<line num="39"  count="20"  type="cond"  truecount="2"  falsecount="0" />
@@ -244,8 +244,8 @@
 				<line num="337"  count="82"  type="cond"  truecount="4"  falsecount="0" />
 				<line num="338"  count="59"  type="stmt" />
 				<line num="339"  count="59"  type="stmt" />
-				<line num="340"  count="128"  type="cond"  truecount="3"  falsecount="1" />
-				<line num="341"  count="128"  type="stmt" />
+				<line num="340"  count="130"  type="cond"  truecount="3"  falsecount="1" />
+				<line num="341"  count="130"  type="stmt" />
 				<line num="344"  count="23"  type="cond"  truecount="2"  falsecount="2" />
 				<line num="345"  count="0"  type="stmt" />
 				<line num="346"  count="23"  type="cond"  truecount="1"  falsecount="1" />
@@ -311,17 +311,17 @@
 				<line num="551"  count="1"  type="stmt" />
 				<line num="552"  count="0"  type="cond"  truecount="0"  falsecount="2" />
 				<line num="568"  count="150"  type="stmt" />
-				<line num="583"  count="100"  type="stmt" />
+				<line num="583"  count="101"  type="stmt" />
 				<line num="599"  count="1"  type="stmt" />
 				<line num="601"  count="293"  type="cond"  truecount="2"  falsecount="0" />
 				<line num="610"  count="1"  type="stmt" />
 				<line num="611"  count="27"  type="cond"  truecount="3"  falsecount="0" />
-				<line num="627"  count="488"  type="stmt" />
+				<line num="627"  count="489"  type="stmt" />
 				<line num="648"  count="30"  type="stmt" />
 				<line num="663"  count="1"  type="stmt" />
 				<line num="664"  count="3"  type="stmt" />
 				<line num="680"  count="1"  type="stmt" />
-				<line num="694"  count="418"  type="stmt" />
+				<line num="694"  count="420"  type="stmt" />
 				<line num="704"  count="1"  type="stmt" />
 				<line num="705"  count="3"  type="stmt" />
 				<line num="716"  count="1"  type="stmt" />
@@ -612,8 +612,8 @@
 				<line num="1671"  count="1"  type="stmt" />
 				<line num="1672"  count="1"  type="stmt" />
 				<line num="1675"  count="1"  type="cond"  truecount="1"  falsecount="1" />
-				<line num="1677"  count="0"  type="stmt" />
-				<line num="1678"  count="0"  type="stmt" />
+				<line num="1677"  count="1"  type="stmt" />
+				<line num="1678"  count="1"  type="stmt" />
 				<line num="1682"  count="1"  type="stmt" />
 				<line num="1683"  count="1"  type="stmt" />
 				<line num="1684"  count="1"  type="stmt" />
@@ -624,8 +624,8 @@
 				<line num="1695"  count="1"  type="stmt" />
 				<line num="1696"  count="1"  type="stmt" />
 				<line num="1698"  count="1"  type="cond"  truecount="3"  falsecount="1" />
-				<line num="1699"  count="0"  type="stmt" />
-				<line num="1700"  count="0"  type="stmt" />
+				<line num="1699"  count="1"  type="stmt" />
+				<line num="1700"  count="1"  type="stmt" />
 				<line num="1703"  count="1"  type="cond"  truecount="3"  falsecount="1" />
 				<line num="1704"  count="0"  type="stmt" />
 				<line num="1707"  count="1"  type="stmt" />
@@ -673,14 +673,14 @@
 				<line num="1811"  count="1"  type="stmt" />
 				<line num="1814"  count="1"  type="stmt" />
 				<line num="1820"  count="1"  type="stmt" />
-				<line num="1821"  count="148"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="1821"  count="149"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="1822"  count="0"  type="cond"  truecount="0"  falsecount="4" />
-				<line num="1824"  count="148"  type="stmt" />
+				<line num="1824"  count="149"  type="stmt" />
 				<line num="1827"  count="1"  type="stmt" />
-				<line num="1828"  count="54"  type="cond"  truecount="4"  falsecount="0" />
+				<line num="1828"  count="55"  type="cond"  truecount="4"  falsecount="0" />
 				<line num="1829"  count="1"  type="stmt" />
-				<line num="1832"  count="54"  type="stmt" />
-				<line num="1834"  count="54"  type="stmt" />
+				<line num="1832"  count="55"  type="stmt" />
+				<line num="1834"  count="55"  type="stmt" />
 				<line num="1842"  count="1"  type="stmt" />
 				<line num="1843"  count="216"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="1844"  count="0"  type="stmt" />
@@ -1208,25 +1208,25 @@
 				<line num="3636"  count="0"  type="cond"  truecount="0"  falsecount="2" />
 				<line num="3637"  count="0"  type="stmt" />
 				<line num="3655"  count="1"  type="stmt" />
-				<line num="3656"  count="25"  type="cond"  truecount="2"  falsecount="0" />
-				<line num="3658"  count="25"  type="cond"  truecount="2"  falsecount="0" />
-				<line num="3659"  count="1"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="3656"  count="27"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="3658"  count="27"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="3659"  count="2"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="3660"  count="0"  type="stmt" />
-				<line num="3662"  count="1"  type="stmt" />
-				<line num="3665"  count="24"  type="stmt" />
-				<line num="3666"  count="24"  type="cond"  truecount="5"  falsecount="0" />
-				<line num="3667"  count="1"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="3662"  count="2"  type="stmt" />
+				<line num="3665"  count="25"  type="stmt" />
+				<line num="3666"  count="25"  type="cond"  truecount="5"  falsecount="0" />
+				<line num="3667"  count="2"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="3669"  count="23"  type="stmt" />
-				<line num="3672"  count="24"  type="stmt" />
+				<line num="3672"  count="25"  type="stmt" />
 				<line num="3678"  count="1"  type="stmt" />
 				<line num="3679"  count="2"  type="cond"  truecount="2"  falsecount="0" />
 				<line num="3680"  count="1"  type="stmt" />
 				<line num="3681"  count="1"  type="stmt" />
-				<line num="3682"  count="1"  type="stmt" />
+				<line num="3682"  count="2"  type="stmt" />
 				<line num="3685"  count="2"  type="stmt" />
 				<line num="3687"  count="1"  type="stmt" />
-				<line num="3694"  count="11"  type="stmt" />
-				<line num="3702"  count="14"  type="stmt" />
+				<line num="3694"  count="12"  type="stmt" />
+				<line num="3702"  count="15"  type="stmt" />
 				<line num="3710"  count="0"  type="stmt" />
 				<line num="3711"  count="0"  type="stmt" />
 				<line num="3712"  count="0"  type="stmt" />
@@ -1244,8 +1244,8 @@
 				<line num="3796"  count="0"  type="cond"  truecount="0"  falsecount="2" />
 				<line num="3798"  count="0"  type="stmt" />
 				<line num="3801"  count="1"  type="stmt" />
-				<line num="3802"  count="115"  type="stmt" />
-				<line num="3807"  count="115"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="3802"  count="116"  type="stmt" />
+				<line num="3807"  count="116"  type="cond"  truecount="2"  falsecount="0" />
 				<line num="3808"  count="62"  type="cond"  truecount="2"  falsecount="0" />
 				<line num="3809"  count="57"  type="stmt" />
 				<line num="3810"  count="57"  type="cond"  truecount="1"  falsecount="1" />
@@ -1259,12 +1259,12 @@
 				<line num="3821"  count="0"  type="stmt" />
 				<line num="3822"  count="0"  type="stmt" />
 				<line num="3826"  count="57"  type="stmt" />
-				<line num="3828"  count="53"  type="cond"  truecount="1"  falsecount="1" />
-				<line num="3829"  count="53"  type="stmt" />
-				<line num="3830"  count="53"  type="stmt" />
-				<line num="3831"  count="53"  type="stmt" />
+				<line num="3828"  count="54"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="3829"  count="54"  type="stmt" />
+				<line num="3830"  count="54"  type="stmt" />
+				<line num="3831"  count="54"  type="stmt" />
 				<line num="3833"  count="0"  type="stmt" />
-				<line num="3835"  count="115"  type="stmt" />
+				<line num="3835"  count="116"  type="stmt" />
 				<line num="4350"  count="1"  type="stmt" />
 				<line num="4351"  count="1"  type="stmt" />
 				<line num="4352"  count="1"  type="stmt" />
@@ -1273,7 +1273,7 @@
 				<line num="4371"  count="0"  type="stmt" />
 				<line num="4376"  count="45"  type="stmt" />
 				<line num="4377"  count="45"  type="stmt" />
-				<line num="4381"  count="1"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="4381"  count="2"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="4383"  count="1"  type="stmt" />
 				<line num="4389"  count="1"  type="stmt" />
 				<line num="4390"  count="5"  type="stmt" />
@@ -1312,23 +1312,23 @@
 				<line num="4454"  count="11"  type="cond"  truecount="2"  falsecount="0" />
 				<line num="4455"  count="11"  type="stmt" />
 				<line num="4456"  count="11"  type="stmt" />
-				<line num="4457"  count="14"  type="cond"  truecount="2"  falsecount="0" />
-				<line num="4458"  count="11"  type="stmt" />
+				<line num="4457"  count="15"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="4458"  count="12"  type="stmt" />
 				<line num="4460"  count="1"  type="stmt" />
 				<line num="4461"  count="20"  type="stmt" />
 				<line num="4462"  count="20"  type="stmt" />
 				<line num="4463"  count="16"  type="stmt" />
 				<line num="4466"  count="16"  type="stmt" />
-				<line num="4470"  count="11"  type="stmt" />
-				<line num="4471"  count="11"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="4470"  count="12"  type="stmt" />
+				<line num="4471"  count="12"  type="cond"  truecount="2"  falsecount="0" />
 				<line num="4472"  count="10"  type="stmt" />
 				<line num="4473"  count="10"  type="stmt" />
 				<line num="4474"  count="10"  type="stmt" />
 				<line num="4475"  count="10"  type="stmt" />
-				<line num="4476"  count="1"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="4476"  count="2"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="4477"  count="0"  type="stmt" />
-				<line num="4478"  count="1"  type="cond"  truecount="1"  falsecount="1" />
-				<line num="4479"  count="1"  type="stmt" />
+				<line num="4478"  count="2"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="4479"  count="2"  type="stmt" />
 				<line num="4481"  count="0"  type="stmt" />
 				<line num="4484"  count="0"  type="cond"  truecount="0"  falsecount="2" />
 				<line num="4485"  count="0"  type="stmt" />
@@ -1338,10 +1338,10 @@
 				<line num="4499"  count="11"  type="stmt" />
 				<line num="4506"  count="1"  type="stmt" />
 				<line num="4508"  count="1"  type="stmt" />
-				<line num="4509"  count="210"  type="cond"  truecount="2"  falsecount="0" />
-				<line num="4510"  count="165"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="4509"  count="211"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="4510"  count="166"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="4511"  count="0"  type="stmt" />
-				<line num="4514"  count="165"  type="stmt" />
+				<line num="4514"  count="166"  type="stmt" />
 				<line num="4516"  count="45"  type="stmt" />
 				<line num="4517"  count="45"  type="stmt" />
 				<line num="4518"  count="45"  type="stmt" />
@@ -1351,18 +1351,18 @@
 				<line num="4524"  count="0"  type="stmt" />
 				<line num="4526"  count="45"  type="stmt" />
 				<line num="4531"  count="1"  type="stmt" />
-				<line num="4532"  count="115"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="4532"  count="116"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="4533"  count="0"  type="stmt" />
 				<line num="4534"  count="0"  type="stmt" />
-				<line num="4537"  count="115"  type="stmt" />
-				<line num="4542"  count="115"  type="stmt" />
-				<line num="4543"  count="130"  type="stmt" />
-				<line num="4544"  count="130"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="4537"  count="116"  type="stmt" />
+				<line num="4542"  count="116"  type="stmt" />
+				<line num="4543"  count="131"  type="stmt" />
+				<line num="4544"  count="131"  type="cond"  truecount="1"  falsecount="1" />
 				<line num="4545"  count="0"  type="stmt" />
-				<line num="4548"  count="130"  type="stmt" />
-				<line num="4554"  count="115"  type="cond"  truecount="2"  falsecount="0" />
-				<line num="4555"  count="53"  type="stmt" />
-				<line num="4560"  count="115"  type="stmt" />
+				<line num="4548"  count="131"  type="stmt" />
+				<line num="4554"  count="116"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="4555"  count="54"  type="stmt" />
+				<line num="4560"  count="116"  type="stmt" />
 				<line num="4563"  count="1"  type="stmt" />
 				<line num="4567"  count="44"  type="cond"  truecount="3"  falsecount="1" />
 				<line num="4568"  count="44"  type="stmt" />
@@ -1925,9 +1925,9 @@
 				<line num="7442"  count="0"  type="stmt" />
 				<line num="7468"  count="1"  type="stmt" />
 				<line num="7469"  count="1"  type="stmt" />
-				<line num="7470"  count="1"  type="cond"  truecount="1"  falsecount="1" />
-				<line num="7471"  count="1"  type="stmt" />
-				<line num="7472"  count="1"  type="stmt" />
+				<line num="7470"  count="2"  type="cond"  truecount="1"  falsecount="1" />
+				<line num="7471"  count="2"  type="stmt" />
+				<line num="7472"  count="2"  type="stmt" />
 				<line num="7474"  count="0"  type="stmt" />
 				<line num="7477"  count="1"  type="stmt" />
 				<line num="7483"  count="1"  type="stmt" />
@@ -7210,33 +7210,33 @@
 		</package>
 		<package name="app.bower_components.html5-boilerplate.dist.js.vendor" >
 			<metrics statements="1"  coveredstatements="1"  conditionals="363"  coveredconditionals="110"  methods="115"  coveredmethods="66" />
-			<file name="modernizr-2.8.3.min.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\bower_components\html5-boilerplate\dist\js\vendor\modernizr-2.8.3.min.js" >
+			<file name="modernizr-2.8.3.min.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\bower_components\html5-boilerplate\dist\js\vendor\modernizr-2.8.3.min.js" >
 				<metrics statements="1"  coveredstatements="1"  conditionals="363"  coveredconditionals="110"  methods="115"  coveredmethods="66" />
 				<line num="4"  count="41"  type="cond"  truecount="110"  falsecount="253" />
 			</file>
 		</package>
 		<package name="app.components.version" >
 			<metrics statements="7"  coveredstatements="5"  conditionals="0"  coveredconditionals="0"  methods="4"  coveredmethods="2" />
-			<file name="interpolate-filter.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\components\version\interpolate-filter.js" >
+			<file name="interpolate-filter.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\components\version\interpolate-filter.js" >
 				<metrics statements="3"  coveredstatements="1"  conditionals="0"  coveredconditionals="0"  methods="2"  coveredmethods="0" />
 				<line num="3"  count="1"  type="stmt" />
 				<line num="6"  count="0"  type="stmt" />
 				<line num="7"  count="0"  type="stmt" />
 			</file>
-			<file name="version-directive.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\components\version\version-directive.js" >
+			<file name="version-directive.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\components\version\version-directive.js" >
 				<metrics statements="3"  coveredstatements="3"  conditionals="0"  coveredconditionals="0"  methods="2"  coveredmethods="2" />
 				<line num="3"  count="1"  type="stmt" />
 				<line num="6"  count="1"  type="stmt" />
 				<line num="7"  count="1"  type="stmt" />
 			</file>
-			<file name="version.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\components\version\version.js" >
+			<file name="version.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\components\version\version.js" >
 				<metrics statements="1"  coveredstatements="1"  conditionals="0"  coveredconditionals="0"  methods="0"  coveredmethods="0" />
 				<line num="3"  count="1"  type="stmt" />
 			</file>
 		</package>
 		<package name="app.view1" >
 			<metrics statements="8"  coveredstatements="8"  conditionals="0"  coveredconditionals="0"  methods="4"  coveredmethods="4" />
-			<file name="view1.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\view1\view1.js" >
+			<file name="view1.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\view1\view1.js" >
 				<metrics statements="8"  coveredstatements="8"  conditionals="0"  coveredconditionals="0"  methods="4"  coveredmethods="4" />
 				<line num="2"  count="1"  type="stmt" />
 				<line num="3"  count="1"  type="stmt" />
@@ -7250,7 +7250,7 @@
 		</package>
 		<package name="app.view2" >
 			<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="2"  coveredmethods="1" />
-			<file name="view2.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\angular-seed\angular-seed\app\view2\view2.js" >
+			<file name="view2.js"  path="c:\Users\mbiel\Desktop\WORKSPACE\FIXED_ISTANBUL\app\view2\view2.js" >
 				<metrics statements="2"  coveredstatements="2"  conditionals="0"  coveredconditionals="0"  methods="2"  coveredmethods="1" />
 				<line num="3"  count="1"  type="stmt" />
 				<line num="6"  count="1"  type="stmt" />

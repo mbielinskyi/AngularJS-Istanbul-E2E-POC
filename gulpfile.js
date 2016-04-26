@@ -6,7 +6,7 @@ var gulpSequence = require('gulp-sequence');
 var rename = require('gulp-rename');
 var exec = require('child_process').exec;
 
-gulp.task('test', gulpSequence(
+gulp.task('cover', gulpSequence(
     'copy-sources',
     'instr',
     'protractor',
